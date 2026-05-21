@@ -6,11 +6,12 @@ I'm <strong>İbrahim</strong>, a passionate Junior Fullstack Web Developer who l
 
 ### 🚀 What I Do
 <hr>
+<p>
 - 🔥 Fullstack web development (Frontend & Backend)
 - 🛡️ Building secure platforms with PHP, MySQL & CSP
 - 🤖 Creating automation tools and bots using Node.js & Python
 - 🛠️ Always experimenting with new tools, frameworks & security vulnerabilities
-
+</p>
 ### 💻 Tech Stack
 <hr>
 <p align="left">
