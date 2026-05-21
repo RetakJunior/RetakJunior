@@ -2,7 +2,7 @@
 
 ### ✨ Who am I?
 <hr>
-I'm **İbrahim**, a passionate Junior Fullstack Web Developer who loves building awesome and secure web applications. I also run a <a href="https://www.youtube.com/@RetakDev"> Youtube channel </a> where I teach web coding tutorials to help others learn and grow in web development. I am constantly learning and pushing my limits in both software development and cybersecurity.
+I'm <strong>İbrahim</strong>, a passionate Junior Fullstack Web Developer who loves building awesome and secure web applications. I also run a <a href="https://www.youtube.com/@RetakDev"> Youtube channel </a> where I teach web coding tutorials to help others learn and grow in web development. I am constantly learning and pushing my limits in both software development and cybersecurity.
 
 ### 🚀 What I Do
 <hr>
