@@ -25,7 +25,7 @@ I'm **İbrahim**, a passionate Junior Fullstack Web Developer who loves building
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### 💬 Let's Connect
+### 💬 Let's Connect:
 - **Email :** [Send Email](mailto:retakdev@gmail.com)
 - **LinkedIn :** [R.Ibrahim](www.linkedin.com/in/ibrahim-rehmanov-85a833410)
 - **GitHub :** [Here!](https://github.com/RetakJunior)
