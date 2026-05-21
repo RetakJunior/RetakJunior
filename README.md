@@ -26,7 +26,7 @@ I'm **İbrahim**, a passionate Junior Fullstack Web Developer who loves building
 </p>
 
 ### 💬 Let's Connect:
-- **Email :** [Send Email](mailto:retakdev@gmail.com)
+- **Email :** [devretak@gmail.com](mailto:devretak@gmail.com)
 - **LinkedIn :** [R.Ibrahim](www.linkedin.com/in/ibrahim-rehmanov-85a833410)
 - **GitHub :** [Here!](https://github.com/RetakJunior)
 
